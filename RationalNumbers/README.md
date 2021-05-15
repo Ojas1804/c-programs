@@ -1,2 +1,2 @@
-# c-programs
+# rational-number-operations
 Some simple C programs and projects...
